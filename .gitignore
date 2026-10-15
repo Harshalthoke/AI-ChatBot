@@ -11,3 +11,4 @@ reports/*.html
 .coverage
 htmlcov/
 *.log
+push_to_github.ps1
